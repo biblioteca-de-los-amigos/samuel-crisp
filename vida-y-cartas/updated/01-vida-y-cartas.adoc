@@ -19,12 +19,14 @@ un Amigo que tenía un gran internado en Wandsworth.
 No permaneció por mucho tiempo en este estado,
 y posteriormente abrió una escuela por su cuenta en Stepney, cerca de Londres.
 
-De una obra suya titulada The Present State of Quakerism in England,^
+De una obra suya titulada [.book-title]#The Present State of Quakerism in England#,^
 footnote:[El Estado Actual del Cuaquerismo en Inglaterra.]
 obtenemos los siguientes detalles y observaciones,
 relativos a su salida de la comunión con la iglesia establecida,
 y de los puestos que ocupó en ella:
 
+[quote]
+____
 En cuanto a mi salida de la Iglesia de Inglaterra,
 Dios es mi testigo de que lo hice en obediencia pura
 a las convicciones de mi propia mente;
@@ -95,6 +97,7 @@ estando dispersos en las oscuras y estériles montañas como ovejas sin pastor,
 vagando de montaña en montaña, y de una forma y vacía profesión de religión a otra.
 Ahí nos encontró y Su ojo se compadeció de nosotros, y dijo a los huesos secos:
 "`¡Vivan!`"; porque para siempre es Su misericordia.
+____
 
 El oficio de capellán en una familia privada (en
 el que parece que sólo permaneció diez días),
@@ -113,6 +116,8 @@ Es probable que hubiera podido sobrellevar esos inconvenientes
 hasta que se presentara una designación menos fastidiosa,
 si hubiera podido continuar ahí y al mismo tiempo disfrutar paz mental; pero escribe:
 
+[quote]
+____
 Dejé mi puesto de capellán por un principio puramente de consciencia;
 el brillo de la riqueza no pudo mantenerme ahí,
 y esto sucedió unos meses antes de conocer al pueblo llamado Cuáqueros,
@@ -167,11 +172,13 @@ La verdad era mi más grande tesoro;
 esa era mi mayor alegría. "`Porque,`" como dice el apóstol, "`nuestra gloria es esta:
 el testimonio de nuestra consciencia, que con sencillez y sinceridad de Dios,
 no con sabiduría humana, sino con la gracia de Dios, nos hemos conducido en el mundo.`"
+____
 
 [.asterism]
 '''
 
-Cartas de Samuel Crisp
+[.centered]
+=== Cartas de Samuel Crisp
 
 +++[+++Las siguientes tres cartas de Samuel Crisp fueron escritas hacia el año 1702;
 la primera y la segunda con motivo de su salida de la iglesia de Inglaterra,
@@ -183,6 +190,10 @@ de que aunque hasta entonces había hecho lo que le exigía
 el Señor al unirse en comunión religiosa con los Amigos,
 no le proporcionaba motivos para relajar su vigilancia y diligencia en la guerra Cristiana.]
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Carta I
 
 La semana pasada recibí una carta tuya enviada por tu tío Bolton;
@@ -362,14 +373,14 @@ y casualmente le eché un vistazo a las obras de Robert Barclay.
 Como había oído en el campo que él era un hombre de gran importancia entre los Cuáqueros,
 tuve la intención de ver cuáles eran sus principios, y qué defensa podían hacer de ellos;
 porque yo realmente pensaba, que este pueblo no podía ser tan tonto y ridículo,
-ni sostener opiniones tan horribles, como el autor de "`The Snake`"^
+ni sostener opiniones tan horribles, como el autor de [.book-title]#The Snake#`"^
 footnote:[Este libro,
 "`The Snake in the Grass`" (La Serpiente en la Hierba)
 fue publicado anónimamente en el año 1696.
 El autor fue empleado por algunos miembros del clero,
 para hacer que los Amigos y sus principios fueran odiosos para el mundo.
 Sus tergiversaciones fueron refutadas y sus astutos artificios puestos de manifiesto,
-por Joseph Wyeth y George Whitehead en un libro titulado "`A Switch for the Snake.`"
+por Joseph Wyeth y George Whitehead en un libro titulado [.book-title]#A Switch for the Snake.#
 (Un Golpe para la Serpiente)]
 y algunos otros nos querían hacer creer.
 Me llevé a Barclay conmigo a casa, y lo leí por completo en una semana,
@@ -406,9 +417,9 @@ Así que dejé inmediatamente la comunión con la iglesia de Inglaterra,
 y fui a la reunión en Gracechurch-street.
 Después de leer a Barclay, leí algunos otros libros de ese tipo,
 entre los cuales estaba una excelente pieza, aunque en un pequeño volumen,
-llamada "`No Cross, No Crown`"^
-footnote:["`No Cruz,
-No Corona,`" por William Penn]. Continué leyendo
+llamada [.book-title]#No Cross, No Crown#.^
+footnote:["`No Cruz, No Corona,`" por William Penn].
+Continué leyendo
 y frecuentando reuniones por varias semanas seguidas,
 pero no dejé que nadie supiera lo que estaba haciendo.
 George Whitehead fue el primer hombre con el que conversé; y eso,
@@ -509,12 +520,21 @@ Recordemos orar unos por otros con todo fervor,
 para que podamos mantenernos perfectos en toda la voluntad de Dios.
 Mi alma dice, Amén.
 
+[.signed-section-closing]
 Tu más afectuoso amigo y siervo en Jesús,
 
+[.signed-section-signature]
 Samuel Crisp.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Carta II
 
+[.salutation]
 Mi querido amigo,
 
 Recientemente recibí tu carta amable y fraternal, por la que te devuelvo mucha gratitud.
@@ -759,12 +779,21 @@ y alabar a Dios por todas Sus misericordias y beneficios!
 En efecto, que puedas a llegar a tales goces y refrigerios espirituales como estos,
 es el sincero deseo de tu cordial y afectuoso amigo,
 
+[.signed-section-signature]
 Samuel Crisp.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Carta III
 
+[.signed-section-context-open]
 Leeds, 6 del mes Siete, 1702
 
+[.salutation]
 Amado amigo,
 
 Te hago saber que el pasado cuarto-día se cumplió
@@ -794,31 +823,38 @@ Esto es negar el yo; en efecto, esto es hacer morir lo terrenal;
 y este es ese arrepentimiento para vida, de que no hay que arrepentirse.
 Mis saludos para tu tío y para tus Amigos.
 
+[.signed-section-closing]
 Tu cordial y afectuoso amigo,
 
+[.signed-section-signature]
 Samuel Crisp.
 
-Extractos de la
+--
 
-Vindicación del Pueblo Llamado Cuáqueros
+[.centered]
+=== Extractos de la Vindicación del Pueblo Llamado Cuáqueros
 
+[.centered]
 de Samuel Crisp.
 
 +++[+++El primero de los dos fragmentos que se presentan a continuación,
-está sacado del Prefacio de la Vindicación de Samuel Crisp,
+está sacado del Prefacio de [.book-title]#La Vindicación# de Samuel Crisp,
 y el segundo está tomado del propio tratado.
 Se cree que el consejo de peso, la doctrina sana,
 e instructivas observaciones que contienen estos fragmentos,
 se recomendarán a sí mismas a la cordial aceptación de cualquier lector serio.]
 
-Una Alegato a Favor de la Verdad,
+[.centered]
+==== Una Alegato a Favor de la Verdad, y una Ferviente Exhortación a ser Hallados Caminando en Ella.
 
-y una Ferviente Exhortación a ser Hallados Caminando en Ella.
-
+[quote.scripture, , Jeremías 6:16]
+____
 "`Paraos en los caminos, y mirad, y preguntad por las sendas antiguas,
 cuál sea el buen camino, y andad por él,
-y hallaréis descanso para vuestra alma.`"--Jeremías 6:16
+y hallaréis descanso para vuestra alma.`"
+____
 
+[.salutation]
 Lector,
 
 Deseo que seas serio e imparcial en la lectura de lo que aquí presento ante tu vista,
@@ -953,14 +989,17 @@ a un varón perfecto, a la medida de la estatura de la plenitud de Cristo.`"
 Que todos lleguemos a conocer, atestiguar y experimentar esto en nosotros mismos,
 es la ferviente súplica y oración de tu bien intencionado y sincero amigo,
 
+[.signed-section-signature]
 Samuel Crisp.
 
-Sobre la Adoración Divina, el Ministerio del Evangelio y la Iglesia Verdadera.
+[.centered]
+==== Sobre la Adoración Divina, el Ministerio del Evangelio y la Iglesia Verdadera.
 
+[quote.scripture, , John 4:24]
+____
 "`Dios es Espíritu; y los que le adoran,
 en espíritu y en verdad es necesario que adoren.`"
-
-Juan 4:24
+____
 
 Nuestra creencia Cristiana,
 es que todo hombre debe esperar en Dios en la medida de Su buen Espíritu;
@@ -1102,7 +1141,7 @@ que deseamos que todas las personas consideren seriamente y persigan diligenteme
 [.asterism]
 '''
 
-Esta breve colección de cartas y escritos de Samuel
+__Esta breve colección de cartas y escritos de Samuel
 Crisp muestra que era un joven de sinceridad,
 humildad y genuina piedad poco comunes.
 No está claro si él fue llamado alguna vez a ministrar
@@ -1121,4 +1160,4 @@ convertiría en un miembro útil para la iglesia de sus días. Pero cualquier
 esperanza de este tipo sólo se cumplió en una medida muy limitada,
 en vista de que le plació Al que dispone sabiamente los eventos, cortar su vida.
 Él murió de viruela, en Stepney, al este de Londres, el 7 del mes Cuarto de 1704,
-a los 34 años de edad.
+a los 34 años de edad.__
