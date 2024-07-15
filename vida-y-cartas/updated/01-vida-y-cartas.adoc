@@ -70,7 +70,7 @@ yo era un fanático supersticioso, una pobre criatura
 oscura, un asalariado, un líder ciego de ciegos.
 Esperaba treinta libras al año por predicar, ese era mi salario;
 y era tan bruto en mi entendimiento, que si alguien cuestionaba mi comisión,
-sabía que tenía un pequeño pedazo de papel para mostrarles, al que yo llamaba "``mis órdenes,``"
+sabía que tenía un pequeño pedazo de papel para mostrarles, al que yo llamaba "`mis órdenes,`"
 si eso los satisfacía.
 
 Y sin embargo, Dios no se quedó sin testigo,
@@ -373,7 +373,7 @@ y casualmente le eché un vistazo a las obras de Robert Barclay.
 Como había oído en el campo que él era un hombre de gran importancia entre los Cuáqueros,
 tuve la intención de ver cuáles eran sus principios, y qué defensa podían hacer de ellos;
 porque yo realmente pensaba, que este pueblo no podía ser tan tonto y ridículo,
-ni sostener opiniones tan horribles, como el autor de [.book-title]"``#La Serpiente en la Hierba#``"^
+ni sostener opiniones tan horribles, como el autor de [.book-title]#La Serpiente en la Hierba#`"^
 footnote:[Este libro,
 "`The Snake in the Grass`" (La Serpiente en la Hierba)
 fue publicado anónimamente en el año 1696.
