@@ -417,7 +417,7 @@ Así que dejé inmediatamente la comunión con la iglesia de Inglaterra,
 y fui a la reunión en Gracechurch-street.
 Después de leer a Barclay, leí algunos otros libros de ese tipo,
 entre los cuales estaba una excelente pieza, aunque en un pequeño volumen,
-llamada [.book-title]"``#No Cruz, No Corona#.``"^
+llamada [.book-title]#No Cruz, No Corona#.^
 footnote:["`No Cross, No Crown,`" por William Penn].
 Continué leyendo
 y frecuentando reuniones por varias semanas seguidas,
